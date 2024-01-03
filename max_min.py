@@ -4,3 +4,5 @@ c = [4, 8, 12]
 
 print(max([len(a), len(b), len(c)]))
 print(min([len(a), len(b), len(c)]))
+
+
